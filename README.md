@@ -5,13 +5,13 @@ This project leverages Google's Gemini 2.5 Pro API to automatically generate eng
 
 📌 Features
 
-🧠 AI-Generated Slide Content: Uses Gemini API to create slide outlines, titles, and bullet points.
+AI-Generated Slide Content: Uses Gemini API to create slide outlines, titles, and bullet points.
 
-🖼️ Auto-Fetched Illustrations: Downloads relevant royalty-free images via the Pexels API.
+Auto-Fetched Illustrations: Downloads relevant royalty-free images via the Pexels API.
 
-📊 Customizable Slides: Supports title, content, image, and conclusion slides.
+Customizable Slides: Supports title, content, image, and conclusion slides.
 
-💾 One-Click Export: Outputs a .pptx file ready to use or present.
+One-Click Export: Outputs a .pptx file ready to use or present.
 
 🧪 Tech Stack
 
